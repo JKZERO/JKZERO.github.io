@@ -1,0 +1,87 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": 1,
+        "imgUrl": "https://source.qunarzz.com/site/images/wap/home/recommend/iphoneplus/sc_sqdc_20180727.jpg"
+      }, {
+        "id": 2,
+        "imgUrl": "https://source.qunarzz.com/site/images/wap/home/recommend/iphoneplus/20180716_wap_11043.jpg"
+      }, {
+        "id": 3,
+        "imgUrl": "https://source.qunarzz.com/site/images/wap/home/recommend/iphoneplus/dujia_shuqi_banner_20180710.jpg"
+      }, {
+        "id": 4,
+        "imgUrl": "https://source.qunarzz.com/site/images/wap/home/recommend/iphoneplus/anquan_20180716.png"
+      }],
+    "iconList": [{
+        "id": "001",
+        "imgUrl": "/static/imgs/testicon.jpg",
+        "desc": "热门景点"
+      }, {
+        "id": "002",
+        "imgUrl": "/static/imgs/testicon2.jpg",
+        "desc": "滑雪"
+      }, {
+        "id": "003",
+        "imgUrl": "/static/imgs/testicon3.png",
+        "desc": "动物园"
+      }, {
+        "id": "004",
+        "imgUrl": "/static/imgs/testicon.jpg",
+        "desc": "泡温泉"
+      }, {
+        "id": "005",
+        "imgUrl": "/static/imgs/testicon2.jpg",
+        "desc": "热门景点"
+      }, {
+        "id": "006",
+        "imgUrl": "/static/imgs/testicon3.png",
+        "desc": "滑雪"
+      }, {
+        "id": "007",
+        "imgUrl": "/static/imgs/testicon.jpg",
+        "desc": "动物园"
+      }, {
+        "id": "008",
+        "imgUrl": "/static/imgs/testicon2.jpg",
+        "desc": "泡温泉"
+      }, {
+        "id": "009",
+        "imgUrl": "/static/imgs/testicon3.png",
+        "desc": "泡温泉"
+      }],
+     "recommendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/e6/e688db1f82f6289f.water.jpg_200x200_7195b9de.jpg",
+        "title": "崀山国家地质公园",
+        "desc": "辣椒峰是崀风景名胜区的“六绝”景观之一。该峰犹如擎天大柱，雄奇、陵峰、远观就像硕大无比的红辣椒，秀美神奇。"
+      }, {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1803/12/126471e0966aca5ba3.img.jpg_200x200_f1286016.jpg",
+        "title": "北京国际鲜花港",
+        "desc": "七大主题园区带你畅享北京欢乐谷"
+      }, {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+        "title": "故宫",
+        "desc": "🔥好评如潮，小伙伴热推景点~"
+      }],
+    "weekendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/e6/e688db1f82f6289f.water.jpg_200x200_7195b9de.jpg",
+        "title": "崀山国家地质公园",
+        "desc": "辣椒峰是崀风景名胜区的“六绝”景观之一。该峰犹如擎天大柱，雄奇、陵峰、远观就像硕大无比的红辣椒，秀美神奇。"
+      }, {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+        "title": "漂流勇进，烧烤露营",
+        "desc": "轻松水上漂，任我乐逍遥"
+      }, {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/53/02091f1ee43d0a.jpg_r_640x214_2e3256b1.jpg",
+        "title": "北京清凉避暑胜地",
+        "desc": "到大自然中享受“天然空调”的清凉"
+      }]
+  }
+}
